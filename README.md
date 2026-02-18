@@ -1,4 +1,4 @@
-# 🔭 DataLens AI — EDA · ETL · Business Insights
+# 🔭 Insigth AI — EDA · ETL · Business Insights
 
 > Sube cualquier dataset CSV/Excel y obtén análisis exploratorio completo, pipeline ETL automatizado e insights de negocio impulsados por Claude AI.
 
